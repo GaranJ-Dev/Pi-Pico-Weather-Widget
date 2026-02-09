@@ -47,7 +47,7 @@ Graceful screen updates
 
 ☀️ Weather Animation Gif
 
-<img src="/WeatherLoop.gif" width="300">
+<img src="images/WeatherLoop.gif" width="300">
 
 
 🧠 What I Learned
